@@ -1,5 +1,5 @@
 <?php
-$host = 'localhost/coding/login';  //Recplace it with you website domain e.g. www.vipinkhushu.com and i my case all files are in root directory.
+$host = 'https://codexplod.herokuapp.com/login';  //Recplace it with you website domain e.g. www.vipinkhushu.com and i my case all files are in root directory.
 /******Facebook APP Credentials**************/
 $appid='806871826091810';
 $appsecret='2c5c50a24b756c1c61d285b3516c464f';
